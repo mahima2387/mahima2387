@@ -12,6 +12,10 @@
 <a href="https://www.leetcode.com/mahi2387" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahi2387" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahima2387&show_icons=true&locale=en&layout=compact" alt="mahima2387" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahima2387&show_icons=true&locale=en&layout=compact" alt="Top languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahima2387&show_icons=true&locale=en" alt="mahima2387" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahima2387&show_icons=true&locale=en" alt="GitHub stats" />
+</p>
